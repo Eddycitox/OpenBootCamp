@@ -1,2 +1,2 @@
-tets = "Hola Mundo"
-print(test)
+prueba1 = "Hola Mundo"
+print(prueba1)
